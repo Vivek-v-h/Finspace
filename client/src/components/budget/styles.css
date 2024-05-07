@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .H {
+    text-align: center;
+    color: #333;
+  }
+  
+  .financial-info {
+    padding-top: 20px;
+  }
+  
+  .horizontal-left {
+    float: left;
+    width: auto; /* To leave space between elements */
+  }
+  
+  .horizontal-right {
+    float: right;
+    width: auto;
+  }
+  
+  .center {
+    clear: both; /* Clear the float */
+    text-align: center;
+    margin-top: 15px; /* Space from the top */
+  }
+  
+  .info-field {
+    color: #555;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #218838;
+  }
+  .S {
+    font-size: 25px;
+  }
+  .s {
+    font-size: 20px;
+  }
